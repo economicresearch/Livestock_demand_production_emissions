@@ -1,0 +1,43 @@
+Year,Series,Value,Unit,Index
+2010,Demand: mean national per-capita meat supply,49.3640350877193,kg/capita/year,100.0
+2011,Demand: mean national per-capita meat supply,49.55894736842105,kg/capita/year,100.39484673478454
+2012,Demand: mean national per-capita meat supply,49.81163742690059,kg/capita/year,100.90673774618688
+2013,Demand: mean national per-capita meat supply,49.84122807017544,kg/capita/year,100.96668147490004
+2014,Demand: mean national per-capita meat supply,50.19929824561404,kg/capita/year,101.69204797867614
+2015,Demand: mean national per-capita meat supply,50.76403508771929,kg/capita/year,102.8360728565082
+2016,Demand: mean national per-capita meat supply,51.084853801169594,kg/capita/year,103.48597660299126
+2017,Demand: mean national per-capita meat supply,51.481695906432755,kg/capita/year,104.289885976603
+2018,Demand: mean national per-capita meat supply,52.704152046783626,kg/capita/year,106.76629646083222
+2019,Demand: mean national per-capita meat supply,54.23865168539326,kg/capita/year,109.8748341561054
+2020,Demand: mean national per-capita meat supply,54.17259887005649,kg/capita/year,109.74102658705355
+2021,Demand: mean national per-capita meat supply,55.633841807909604,kg/capita/year,112.70116332477467
+2022,Demand: mean national per-capita meat supply,55.94112994350282,kg/capita/year,113.32365728226247
+2023,Demand: mean national per-capita meat supply,56.406384180790965,kg/capita/year,114.26615364922559
+2010,Production: total livestock meat output,369396301.27,t,100.0
+2011,Production: total livestock meat output,374362751.38,t,101.34447748743698
+2012,Production: total livestock meat output,386940647.72,t,104.74946456953734
+2013,Production: total livestock meat output,395348159.21999997,t,107.02547856076967
+2014,Production: total livestock meat output,404615212.74,t,109.53418086453924
+2015,Production: total livestock meat output,410973353.82,t,111.25540575448545
+2016,Production: total livestock meat output,412497412.76,t,111.66798675076512
+2017,Production: total livestock meat output,419484012.83,t,113.55934301123112
+2018,Production: total livestock meat output,425505400.67,t,115.18940476856281
+2019,Production: total livestock meat output,413160234.61,t,111.84742055877057
+2020,Production: total livestock meat output,413453604.03,t,111.92683917205699
+2021,Production: total livestock meat output,440732695.44,t,119.31161571589712
+2022,Production: total livestock meat output,451468882.09,t,122.21802994178097
+2023,Production: total livestock meat output,462382620.18,t,125.17250946755804
+2010,Emissions: livestock-related greenhouse gases,4225195.8209,kt,100.0
+2011,Emissions: livestock-related greenhouse gases,4228523.2416,kt,100.07875186952381
+2012,Emissions: livestock-related greenhouse gases,4260631.7785,kt,100.83868201858755
+2013,Emissions: livestock-related greenhouse gases,4278788.0149,kt,101.26839550808286
+2014,Emissions: livestock-related greenhouse gases,4307176.2048,kt,101.94027418787275
+2015,Emissions: livestock-related greenhouse gases,4345208.6645,kt,102.84040902924202
+2016,Emissions: livestock-related greenhouse gases,4392786.8902,kt,103.96646868935657
+2017,Emissions: livestock-related greenhouse gases,4412238.8087,kt,104.42684778951046
+2018,Emissions: livestock-related greenhouse gases,4418621.9016,kt,104.5779199094919
+2019,Emissions: livestock-related greenhouse gases,4435282.2371,kt,104.97222910144907
+2020,Emissions: livestock-related greenhouse gases,4529146.1493999995,kt,107.19375719810441
+2021,Emissions: livestock-related greenhouse gases,4585843.9434,kt,108.5356546249537
+2022,Emissions: livestock-related greenhouse gases,4644364.5871,kt,109.92069442383179
+2023,Emissions: livestock-related greenhouse gases,4689325.6913,kt,110.98481325064687
