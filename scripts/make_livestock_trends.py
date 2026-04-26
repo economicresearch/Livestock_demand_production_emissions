@@ -231,16 +231,6 @@ def main() -> None:
     ax.set_title("Global Trends in Livestock Demand, Production, and Emissions")
     ax.legend(loc="upper left", frameon=False)
 
-    ax.text(
-        0.98,
-        0.05,
-        "Stable demand over time\n→ persistence of system-level impacts",
-        transform=ax.transAxes,
-        fontsize=9,
-        ha="right",
-        va="bottom",
-        bbox=dict(facecolor="white", alpha=0.85, edgecolor="none"),
-    )
 
     fig.tight_layout()
     fig.savefig(FIGURES_DIR / "livestock_trends_figure.pdf", dpi=300, bbox_inches="tight")
