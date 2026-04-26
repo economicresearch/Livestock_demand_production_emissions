@@ -113,7 +113,7 @@ The script writes:
 
 The series are indexed to 2010 = 100 to compare relative trends across variables with different units. The figure is intended to illustrate system-level persistence and divergence in trends, not to construct a strict accounting identity between demand, production, and emissions.
 
-## Scope and limitations
+## Scope
 
 This analysis focuses on livestock systems associated with meat production. The demand and production variables include only meat categories, and emissions are constructed from sources primarily linked to these systems (e.g., enteric fermentation and manure management).
 
