@@ -117,4 +117,5 @@ The series are indexed to 2010 = 100 to compare relative trends across variables
 
 This analysis focuses on livestock systems associated with meat production. The demand and production variables include only meat categories, and emissions are constructed from sources primarily linked to these systems (e.g., enteric fermentation and manure management).
 
-Dairy production (milk) is not explicitly included. Including dairy would increase the absolute levels of demand, production, and emissions, but would not alter the overall upward trends observed over time. The results therefore provide a focused view of livestock trends centered on meat production.
+Dairy production—including milk and derived products such as butter and cheese—is not explicitly included. Including these products would increase the absolute levels of demand, production, and emissions, but would not alter the overall upward trends observed over time. The results therefore provide a focused view of livestock trends centered on meat production.
+
