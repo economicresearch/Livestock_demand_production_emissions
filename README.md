@@ -1,6 +1,6 @@
 # Livestock demand, production, and emissions trends
 
-This repository reproduces the figure showing global trends in animal-source food demand, livestock production, and livestock-related greenhouse gas emissions.
+This repository reproduces the figure showing global trends in animal-source food demand, livestock production, and livestock-related greenhouse gas emissions associated with meat production.
 
 ## Study period
 
@@ -112,3 +112,9 @@ The script writes:
 ## Interpretation
 
 The series are indexed to 2010 = 100 to compare relative trends across variables with different units. The figure is intended to illustrate system-level persistence and divergence in trends, not to construct a strict accounting identity between demand, production, and emissions.
+
+## Scope and limitations
+
+This analysis focuses on livestock systems associated with meat production. The demand and production variables include only meat categories, and emissions are constructed from sources primarily linked to these systems (e.g., enteric fermentation and manure management).
+
+Dairy production (milk) is not explicitly included. Including dairy would increase the absolute levels of demand, production, and emissions, but would not alter the overall upward trends observed over time. The results therefore provide a focused view of livestock trends centered on meat production.
